@@ -1,0 +1,21 @@
+{
+	"version": "0.1",
+	"name": "Falling Blocks",
+	"description": "Falling Blocks is a casual 'Breakout' style game which requires you to hit descending blocks with your ball(s). Get points and bonuses from destroying different types of blocks.",
+	"launch_path": "/index.html",
+	"fullscreen": "true",
+	"orientation": "portrait",
+	
+  "icons": {
+    "512": "/assets/Icon-512.png",
+    "128": "/assets/Icon-128.png",
+		"60": "/assets/Icon-60.png"
+  },		
+		
+	"developer": {
+		"name": "Nathan Kewley",
+		"url": "http://nathankewley.info"
+	},
+	
+	"installs_allowed_from": ["*"]
+}
